@@ -17,4 +17,4 @@ This project is a quick, standalone demo of using keycroc to capture a password.
   6. Keycroc injects payload (opens a terminal and types out a skull ASCII art. Can be easily replaced with another payload)
   
 ## TESTED ON
-  - Kali linux (the payload is specific to kali/debian)
+  - Kali linux (inject payload should work on all linux distros)
