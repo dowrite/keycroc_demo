@@ -8,7 +8,7 @@ This project is a quick, standalone demo of using keycroc to capture a password.
   - Enter arming mode on your keycroc
   - Drop keycroc_demo.txt into the keycroc's **payload folder**
   
-## EVENTS
+## DEMO STEPS
   - User uses GUI+l to lock the screen
   - User enters password (keycroc captures it)
   - User uses GUI+l to lock screen again
