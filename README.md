@@ -9,12 +9,12 @@ This project is a quick, standalone demo of using keycroc to capture a password.
   - Drop keycroc_demo.txt into the keycroc's **payload folder**
   
 ## DEMO STEPS
-  - User uses GUI+l to lock the screen
-  - User enters password (keycroc captures it)
-  - User uses GUI+l to lock screen again
-  - Keycroc waits 5 secs
-  - Keycroc logs in with captured password
-  - Keycroc injects payload (opens a terminal and types out a skull ASCII art. Can be easily replaced with another payload)
+  1. User uses GUI+l to lock the screen
+  2. User enters password (keycroc captures it)
+  3 User uses GUI+l to lock screen again
+  4 Keycroc waits 5 secs
+  5 Keycroc logs in with captured password
+  6 Keycroc injects payload (opens a terminal and types out a skull ASCII art. Can be easily replaced with another payload)
   
 ## TESTED ON
   - Kali linux (the payload is specific to kali/debian)
