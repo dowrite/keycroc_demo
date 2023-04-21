@@ -10,8 +10,8 @@ This project is a quick, standalone demo of using keycroc to capture a password.
   
 ## DEMO STEPS
   1. User uses GUI+l to lock the screen
-  2. User enters password (keycroc captures it)
-  3. User uses GUI+l to lock screen again
+  2. User types password, then ENTER (keycroc captures password starting at GUI+l until ENTER)
+  3. User uses GUI+l to lock screen again, triggering phase 2
   4. Keycroc waits 5 secs
   5. Keycroc logs in with captured password
   6. Keycroc injects payload (opens a terminal and types out a skull ASCII art. Can be easily replaced with another payload)
